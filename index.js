@@ -15,23 +15,23 @@ class Sliderr extends React.Component {
         <Slider {...settings}>
           <div>
             <h3></h3>
-            <img src={img1} className="w-100 p-3" />
+            <img src="" className="w-100 p-3" />
           </div>
           <div>
             <h3>2</h3>
-            <img src={img2} className="w-100 p-3" />
+            <img src="" className="w-100 p-3" />
           </div>
           <div>
             <h3>3</h3>
-            <img src={img3} className="w-100 p-3" />
+            <img src="" className="w-100 p-3" />
           </div>
           <div>
             <h3>4</h3>
-            <img src={img4} className="w-100 p-3" />
+            <img src="" className="w-100 p-3" />
           </div>
           <div>
             <h3>5</h3>
-            <img src={img5} className="w-100 p-3" />
+            <img src="" className="w-100 p-3" />
           </div>
         </Slider>
         <button
