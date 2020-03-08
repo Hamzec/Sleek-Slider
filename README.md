@@ -1,5 +1,5 @@
-# Sleek-Slider
-Sleek Slider with little bit code and all related all installation is installed in just one npm installation.
+# Slick-Slider
+Slick Slider with little bit code and all related all installation is installed in just one npm installation.
 
 Step:1
 npm install react-slick --save
